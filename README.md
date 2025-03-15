@@ -1,0 +1,1 @@
+# Szyfr-Cezara-i-afiniczny
