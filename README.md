@@ -79,7 +79,3 @@ Gotowe rozwiązanie powinno być przesłane w archiwum `.tar` lub `.zip` i zawie
   - `plain.txt` (tekst jawny)
   - `crypto.txt` (tekst zaszyfrowany)
   - `key.txt` (poprawny klucz dla szyfru afinicznego)
-
-## Autor
-Wpisz tutaj swoje imię i nazwisko lub pseudonim.
-
